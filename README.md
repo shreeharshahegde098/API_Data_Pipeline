@@ -17,10 +17,10 @@ Weather data is ingested from the **OpenWeather API**, processed using **PySpark
 
 ## 🏗️ Architecture
 Weather API (Raw JSON)
-↓ Bronze Layer (Raw Data)
-↓ Silver Layer (Cleaned & Transformed Data)
-↓ Gold Layer (Aggregated Data)
-↓ BI / Analytics (Power BI / SQL)
+->   Bronze Layer (Raw Data)
+->   Silver Layer (Cleaned & Transformed Data)
+->   Gold Layer (Aggregated Data)
+->   BI / Analytics (Power BI / SQL)
 
 
 
